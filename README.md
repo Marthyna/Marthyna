@@ -1,4 +1,4 @@
-- 👋 Hello, my name is @Marthyna and I am an undergraduate student at CompSci at UFRGS, currently attending the 3rd semester.
+- 👋 Hello, my name is Marthyna and I am an undergraduate student at CompSci at UFRGS, currently attending the 3rd semester.
 - 👀 I am interested in developing simple and efficient software to solve everyday problems (given my current level in programming), working mainly with Python and Java.
 - 🌱 Currently, I'm learning more about browser automation using Python and the Selenium library, while developing software that will automate the process of downloading music 
       from YouTube, given a certain Spotify playlist.
